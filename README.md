@@ -5,4 +5,4 @@ Autor: Prof. Ben Dêivide -
 
 Questões resolvidas e comentadas, em vídeos, do livro Estatística e Probabilidade do professor Bên Dêivide.
 
-[CAPÍTULO 06](https://iconeedu.com.br)
+[CAPÍTULO 06](https://vimeo.com/user/109283966/folder/19596749))
