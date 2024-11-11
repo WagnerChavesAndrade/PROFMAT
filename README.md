@@ -1,3 +1,2 @@
-# projeto_01
-Estatística e Probabilidade
+# Estatística e Probabilidade
 Autor: Prof. Ben Dêivide
