@@ -1,7 +1,6 @@
 # Estatística e Probabilidade
 Autor: Prof. Ben Dêivide
-
-https://bendeivide.github.io/
+[Site](https://bendeivide.github.io/)
 
 
 Questões resolvidas e comentadas, em vídeos, do livro Estatística e Probabilidade deo professor Bên Dêivide.
