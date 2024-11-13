@@ -19,10 +19,12 @@ Questões resolvidas e comentadas, em vídeos, do livro Estatística e Probabili
 
 # [Capítulo 02](https://vimeo.com/user/109283966/folder/22770777)
 
-[CAPÍTULO 08](https://vimeo.com/user/109283966/folder/22770777)
+[Exercício 2.1](https://vimeo.com/user/109283966/folder/22770777)
 
-[CAPÍTULO 09](https://vimeo.com/user/109283966/folder/22770777)
+[Exercício 2.2](https://vimeo.com/user/109283966/folder/22770777)
 
-[CAPÍTULO 10](https://vimeo.com/user/109283966/folder/22770777)
+[Exercício 2.3](https://vimeo.com/user/109283966/folder/22770777)
 
-[CAPÍTULO 11](https://vimeo.com/user/109283966/folder/22770777)
+[Exercício 2.4](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 2.5](https://vimeo.com/user/109283966/folder/22770777)
