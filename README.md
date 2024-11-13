@@ -5,7 +5,7 @@ Autor: Prof. Ben Dêivide -
 
 Questões resolvidas e comentadas, em vídeos, do livro Estatística e Probabilidade do professor Bên Dêivide.
 
-[CAPÍTULO 01](https://vimeo.com/user/109283966/folder/22770777)
+# [Capítulo 01](https://vimeo.com/user/109283966/folder/22770777)
 
 [CAPÍTULO 02](https://vimeo.com/user/109283966/folder/22770777)
 
