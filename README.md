@@ -7,8 +7,7 @@ Questões resolvidas e comentadas, em vídeos, do livro Estatística e Probabili
 
 # [Capítulo 01](https://vimeo.com/user/109283966/folder/22770777)
 
-[Exercício 1.1](https://vimeo.com/user/109283966/folder/22770777)
-
+[Exercício 1.1](https://vimeo.com/user/109283966/folder/22770777)\\
 [Exercício 1.2](https://vimeo.com/user/109283966/folder/22770777)
 
 [Exercício 1.3](https://vimeo.com/user/109283966/folder/22770777)
