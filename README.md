@@ -1,11 +1,9 @@
-# Estatística e Probabilidade
-Autor: Prof. Ben Dêivide - 
-[Site](https://bendeivide.github.io/)
+# Aritmética
+Autor: Abramo Hefez 
 
+Questões resolvidas e comentadas, em vídeos, do livro de Aritmética do professor Abramo Hefez
 
-Questões resolvidas e comentadas, em vídeos, do livro Estatística e Probabilidade do professor Bên Dêivide.
-
-# [Capítulo 01](https://vimeo.com/user/109283966/folder/22770777)
+# [Capítulo 01 - Os Números Inteiros](https://vimeo.com/user/109283966/folder/22770777)
 
 [Exercício 1.1](https://vimeo.com/user/109283966/folder/22770777)
 
