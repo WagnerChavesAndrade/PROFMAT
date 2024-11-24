@@ -14,7 +14,36 @@ Questões resolvidas e comentadas, em vídeos, do livro de Aritmética do profes
 [Exercício 1.4](https://vimeo.com/user/109283966/folder/22770777)
 
 [Exercício 1.5](https://vimeo.com/user/109283966/folder/22770777)
+
 [Exercício 1.6](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.7](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.8](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.9](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.10](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.11](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.12](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.13](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.14](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.15](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.16](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.17](https://vimeo.com/user/109283966/folder/22770777
+
+[Exercício 1.18](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.19](https://vimeo.com/user/109283966/folder/22770777)
+
+[Exercício 1.20](https://vimeo.com/user/109283966/folder/22770777)
 
 
 # [Capítulo 02](https://vimeo.com/user/109283966/folder/22770777)
