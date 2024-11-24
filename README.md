@@ -5,7 +5,8 @@ Questões resolvidas e comentadas, em vídeos, do livro de Aritmética do profes
 
 # [Capítulo 01 - Os Números Inteiros](https://vimeo.com/user/109283966/folder/22770777)
 
-[Exercício 1.1](https://vimeo.com/user/109283966/folder/22770777)\\
+[Exercício 1.1](https://vimeo.com/user/109283966/folder/22770777)
+
 [Exercício 1.2](https://vimeo.com/user/109283966/folder/22770777)
 
 [Exercício 1.3](https://vimeo.com/user/109283966/folder/22770777)
@@ -13,6 +14,7 @@ Questões resolvidas e comentadas, em vídeos, do livro de Aritmética do profes
 [Exercício 1.4](https://vimeo.com/user/109283966/folder/22770777)
 
 [Exercício 1.5](https://vimeo.com/user/109283966/folder/22770777)
+[Exercício 1.6](https://vimeo.com/user/109283966/folder/22770777)
 
 
 # [Capítulo 02](https://vimeo.com/user/109283966/folder/22770777)
