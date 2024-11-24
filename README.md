@@ -37,7 +37,7 @@ Questões resolvidas e comentadas, em vídeos, do livro de Aritmética do profes
 
 [Exercício 1.16](https://vimeo.com/user/109283966/folder/22770777)
 
-[Exercício 1.17](https://vimeo.com/user/109283966/folder/22770777
+[Exercício 1.17](https://vimeo.com/user/109283966/folder/22770777)
 
 [Exercício 1.18](https://vimeo.com/user/109283966/folder/22770777)
 
